@@ -59,4 +59,4 @@ Ya viene con una documentacion completa y muy facil de entender por lo que resol
 
 
 ### Pantalla Servicio Auth
-<img src="assets/capturas/authservice.png" alt="service" width="400" />
+<img src="assets/capturas/authService.png" alt="service" width="400" />
