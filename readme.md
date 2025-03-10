@@ -54,6 +54,9 @@ Ya viene con una documentacion completa y muy facil de entender por lo que resol
 ### Pantalla productos
 <img src="assets/capturas/productos.png" alt="Pantalla producto" width="250" style="border-radius: 30px" />
 
+### Pantalla reporte productos
+<img src="assets/capturas/reporte_producto.png" alt="Pantalla producto" width="250" style="border-radius: 30px" />
+
 ### Pantalla Editar Pedidos
 <img src="assets/capturas/edit_pedido.png" alt="Pantalla edit pedido" width="250" style="border-radius: 30px" />
 
