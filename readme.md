@@ -52,11 +52,11 @@ Ya viene con una documentacion completa y muy facil de entender por lo que resol
 <img src="assets/capturas/pedidos.png" alt="Pantalla pedidos" width="250" style="border-radius: 30px" />
 
 ### Pantalla productos
-<img src="assets/capturas/productos.png" alt="Pantalla carga de formulario perfil" width="250" style="border-radius: 30px" />
+<img src="assets/capturas/productos.png" alt="Pantalla producto" width="250" style="border-radius: 30px" />
 
 ### Pantalla Editar Pedidos
-<img src="assets/capturas/edit_pedido.png" alt="Pantalla carga de formulario perfil" width="250" style="border-radius: 30px" />
+<img src="assets/capturas/edit_pedido.png" alt="Pantalla edit pedido" width="250" style="border-radius: 30px" />
 
 
 ### Pantalla Servicio Auth
-<img src="assets/capturas/authservice.png" alt="Pantalla carga de formulario perfil" width="400" />
+<img src="assets/capturas/authservice.png" alt="service" width="400" />
